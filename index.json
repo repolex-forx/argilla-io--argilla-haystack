@@ -1,0 +1,11 @@
+{
+  "org": "argilla-io",
+  "repo": "argilla-haystack",
+  "versions": [
+    {
+      "commit": "358f42948799a072c8b846abb369e2c39bbff3e0",
+      "tag": "0.0.2",
+      "parsed_at": "2026-11-08T02:17:44.291942+00:00"
+    }
+  ]
+}
